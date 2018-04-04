@@ -1,1 +1,0 @@
-# Heredia-R-User-Group
