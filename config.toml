@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://mystifying-yalow-9d0b62.netlify.com/"
 publishDir="https://alvarovegahd.github.com/Heredia-R-User-Group"
 languageCode = "es-cr"
 title = "John Doe's blog"
