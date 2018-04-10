@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on John Doe&#39;s blog</title>
+    <link>/Heredia-R-User-Group/post/</link>
+    <description>Recent content in Posts on John Doe&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-cr</language>
+    <lastBuildDate>Wed, 04 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/Heredia-R-User-Group/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Material de los talleres</title>
+      <link>/Heredia-R-User-Group/post/material-de-los-talleres/</link>
+      <pubDate>Wed, 04 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/Heredia-R-User-Group/post/material-de-los-talleres/</guid>
+      <description> Haga click sobre el subtítulo para accesar al material de cada uno de los talleres impartidos hasta el momento:
+ggplot2 básico Correlaciones Comparaciones entre grupos Análisis de Imágenes Digitales Planas </description>
+    </item>
+    
+    <item>
+      <title>¿Querés ser parte del grupo o dar un taller?</title>
+      <link>/Heredia-R-User-Group/post/quer%C3%A9s-ser-parte-del-grupo-o-dar-un-taller-organic%C3%A9moslo/</link>
+      <pubDate>Wed, 04 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/Heredia-R-User-Group/post/quer%C3%A9s-ser-parte-del-grupo-o-dar-un-taller-organic%C3%A9moslo/</guid>
+      <description>Para ser parte del grupo solo hace falta unirse al grupo de facebook o llenar este formulario online para ver todos nuestros anuncios en su página de inicio o correo electrónico.
+Si quiere impartir un taller o tiene alguna duda relacionada con el grupo, contáctenos:
+alvarovegahd@gmail.com
+ronny.hernandezm@gmail.com</description>
+    </item>
+    
+    <item>
+      <title>Reuniones 2016-2017 en la UNA</title>
+      <link>/Heredia-R-User-Group/post/reuniones-2016-2017-la-una/</link>
+      <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/Heredia-R-User-Group/post/reuniones-2016-2017-la-una/</guid>
+      <description>Esta iniciativa nació en la Universidad Nacional a manera de &amp;ldquo;estudiadero de bioestadística y programación en R&amp;rdquo;. La experiencia incluyó invitados especiales como Dr Manuel Spinola y MSc David Martínez.</description>
+    </item>
+    
+  </channel>
+</rss>
