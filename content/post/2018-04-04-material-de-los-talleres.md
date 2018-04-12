@@ -7,7 +7,7 @@ categories: []
 tags: []
 ---
 
-Haga click sobre el subtítulo para accesar al material de cada uno de los talleres impartidos hasta el momento:
+Haga click sobre el subtítulo para acceder al material de cada uno de los talleres impartidos hasta el momento:
 
 ## [ggplot2 básico](http://rpubs.com/alvarovegahd/260498)
 ![ggplot2](/img/ggplot2.png)
